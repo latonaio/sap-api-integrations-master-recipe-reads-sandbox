@@ -1,0 +1,33 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-master-recipe-reads/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-master-recipe-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"MasterRecipeGroup": "41010007",
+			"MasterRecipe": "1",
+			"MasterRecipeInternalVersion": "1",
+			"IsMarkedForDeletion": false,
+			"BillOfOperationsDesc": "SG24 - Ink (Process)",
+			"LongTextLanguageCode": "",
+			"PlainLongText": "",
+			"Plant": "1010",
+			"BillOfOperationsStatus": "4",
+			"BillOfOperationsUsage": "1",
+			"ResponsiblePlannerGroup": "1",
+			"BillOfOperationsProfile": "YPI1",
+			"MinimumLotSizeQuantity": "0.000",
+			"MaximumLotSizeQuantity": "99999999.000",
+			"BillOfOperationsUnit": "CCM",
+			"CreationDate": "/Date(1466726400000)/",
+			"LastChangeDate": "/Date(1466726400000)/",
+			"ValidityStartDate": "/Date(1167609600000)/",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ChangeNumber": "",
+			"ChangedDateTime": "/Date(1466774311000+0000)/",
+			"to_MatlAssgmt": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_MASTER_RECIPE/MasterRecipeHeader(MasterRecipeGroup='41010007',MasterRecipe='1',MasterRecipeInternalVersion='1')/to_MatlAssgmt",
+			"to_Operation": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_MASTER_RECIPE/MasterRecipeHeader(MasterRecipeGroup='41010007',MasterRecipe='1',MasterRecipeInternalVersion='1')/to_Operation"
+		}
+	],
+	"time": "2022-01-19T12:15:05.876379+09:00"
+}

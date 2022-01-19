@@ -1,0 +1,22 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-master-recipe-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-master-recipe-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"Product": "SG24",
+			"Plant": "1010",
+			"MasterRecipeGroup": "41010007",
+			"MasterRecipe": "1",
+			"MasterRecipeMaterialAssignment": "1",
+			"MstrRcpMatlAssgmtIntVersion": "1",
+			"CreationDate": "/Date(1466726400000)/",
+			"LastChangeDate": "/Date(1466726400000)/",
+			"ValidityStartDate": "/Date(1167609600000)/",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ChangeNumber": "",
+			"ChangedDateTime": "/Date(1466774311000+0000)/"
+		}
+	],
+	"time": "2022-01-19T12:15:06.593279+09:00"
+}

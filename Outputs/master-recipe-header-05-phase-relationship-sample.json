@@ -1,0 +1,31 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-master-recipe-reads/SAP_API_Caller/caller.go#L81",
+	"function": "sap-api-integrations-master-recipe-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"PrdcssrMasterRecipeGroup": "41010007",
+			"PrdcssrMasterRecipe": "1",
+			"PrdcssrMstrRcpOpInternalID": "2",
+			"SuccssrMasterRecipeGroup": "41010007",
+			"SuccssrMasterRecipe": "1",
+			"SuccssrMstrRcpOpInternalID": "4",
+			"MasterRecipeRelationshipType": "NF",
+			"MaxTimeIntvlIsUsedForSchedg": false,
+			"MstrRcpRelationshipIntVersion": "1",
+			"TimeIntvlBtwnRelshp": "0.0",
+			"MaxTimeIntvlBtwnRelshp": "0.0",
+			"TimeIntvlBtwnRelshpUnit": "",
+			"FactoryCalendar": "01",
+			"WorkCenterInternalID": "0",
+			"Plant": "",
+			"CreationDate": "/Date(1466726400000)/",
+			"LastChangeDate": "/Date(1466726400000)/",
+			"ValidityStartDate": "/Date(1466726400000)/",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ChangeNumber": "",
+			"ChangedDateTime": "/Date(1466774311000+0000)/"
+		}
+	],
+	"time": "2022-01-19T12:15:13.965889+09:00"
+}
