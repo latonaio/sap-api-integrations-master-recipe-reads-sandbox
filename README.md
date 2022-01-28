@@ -94,9 +94,9 @@ func (c *SAPAPICaller) AsyncGetMasterRecipe(masterRecipeGroup, masterRecipe stri
 ```
 
 ## Output  
-本マイクロサービスでは、[golang-logging-library](https://github.com/latonaio/golang-logging-library) により、以下のようなデータがJSON形式で出力されます。  
+本マイクロサービスでは、[golang-logging-library-for-sap](https://github.com/latonaio/golang-logging-library-for-sap) により、以下のようなデータがJSON形式で出力されます。  
 以下の sample.json の例は、SAP マスタレシピ の ヘッダデータ が取得された結果の JSON の例です。  
-以下の項目のうち、"MasterRecipeGroup" ～ "to_Operation" は、/SAP_API_Output_Formatter/type.go 内 の Type Header {} による出力結果です。"cursor" ～ "time"は、golang-logging-library による 定型フォーマットの出力結果です。  
+以下の項目のうち、"MasterRecipeGroup" ～ "to_Operation" は、/SAP_API_Output_Formatter/type.go 内 の Type Header {} による出力結果です。"cursor" ～ "time"は、golang-logging-library-for-sap による 定型フォーマットの出力結果です。  
 
 ```
 {
@@ -120,16 +120,16 @@ func (c *SAPAPICaller) AsyncGetMasterRecipe(masterRecipeGroup, masterRecipe stri
 			"MinimumLotSizeQuantity": "0.000",
 			"MaximumLotSizeQuantity": "99999999.000",
 			"BillOfOperationsUnit": "CCM",
-			"CreationDate": "/Date(1466726400000)/",
-			"LastChangeDate": "/Date(1466726400000)/",
-			"ValidityStartDate": "/Date(1167609600000)/",
-			"ValidityEndDate": "/Date(253402214400000)/",
+			"CreationDate": "2016-06-24T09:00:00+09:00",
+			"LastChangeDate": "2016-06-24T09:00:00+09:00",
+			"ValidityStartDate": "2007-01-01T09:00:00+09:00",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
 			"ChangeNumber": "",
-			"ChangedDateTime": "/Date(1466774311000+0000)/",
+			"ChangedDateTime": "",
 			"to_MatlAssgmt": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_MASTER_RECIPE/MasterRecipeHeader(MasterRecipeGroup='41010007',MasterRecipe='1',MasterRecipeInternalVersion='1')/to_MatlAssgmt",
 			"to_Operation": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_MASTER_RECIPE/MasterRecipeHeader(MasterRecipeGroup='41010007',MasterRecipe='1',MasterRecipeInternalVersion='1')/to_Operation"
 		}
 	],
-	"time": "2022-01-19T12:15:05.876379+09:00"
+	"time": "2022-01-28T16:10:19+09:00"
 }
 ```

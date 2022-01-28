@@ -10,13 +10,13 @@
 			"MasterRecipe": "1",
 			"MasterRecipeMaterialAssignment": "1",
 			"MstrRcpMatlAssgmtIntVersion": "1",
-			"CreationDate": "/Date(1466726400000)/",
-			"LastChangeDate": "/Date(1466726400000)/",
-			"ValidityStartDate": "/Date(1167609600000)/",
-			"ValidityEndDate": "/Date(253402214400000)/",
+			"CreationDate": "2016-06-24T09:00:00+09:00",
+			"LastChangeDate": "2016-06-24T09:00:00+09:00",
+			"ValidityStartDate": "2007-01-01T09:00:00+09:00",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
 			"ChangeNumber": "",
-			"ChangedDateTime": "/Date(1466774311000+0000)/"
+			"ChangedDateTime": ""
 		}
 	],
-	"time": "2022-01-19T12:15:06.593279+09:00"
+	"time": "2022-01-28T16:10:19+09:00"
 }

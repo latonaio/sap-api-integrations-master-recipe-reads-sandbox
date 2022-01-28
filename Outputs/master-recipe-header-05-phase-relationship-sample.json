@@ -19,13 +19,13 @@
 			"FactoryCalendar": "01",
 			"WorkCenterInternalID": "0",
 			"Plant": "",
-			"CreationDate": "/Date(1466726400000)/",
-			"LastChangeDate": "/Date(1466726400000)/",
-			"ValidityStartDate": "/Date(1466726400000)/",
-			"ValidityEndDate": "/Date(253402214400000)/",
+			"CreationDate": "2016-06-24T09:00:00+09:00",
+			"LastChangeDate": "2016-06-24T09:00:00+09:00",
+			"ValidityStartDate": "2016-06-24T09:00:00+09:00",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
 			"ChangeNumber": "",
-			"ChangedDateTime": "/Date(1466774311000+0000)/"
+			"ChangedDateTime": ""
 		}
 	],
-	"time": "2022-01-19T12:15:13.965889+09:00"
+	"time": "2022-01-28T16:10:28+09:00"
 }

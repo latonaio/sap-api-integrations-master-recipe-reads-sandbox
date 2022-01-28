@@ -77,14 +77,14 @@
 			"CostElement": "",
 			"OpExternalProcessingPrice": "0.00",
 			"OpExternalProcessingCurrency": "",
-			"CreationDate": "/Date(1466726400000)/",
-			"LastChangeDate": "/Date(1466726400000)/",
-			"ValidityStartDate": "/Date(1466726400000)/",
-			"ValidityEndDate": "/Date(253402214400000)/",
+			"CreationDate": "2016-06-24T09:00:00+09:00",
+			"LastChangeDate": "2016-06-24T09:00:00+09:00",
+			"ValidityStartDate": "2016-06-24T09:00:00+09:00",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
 			"ChangeNumber": "",
-			"ChangedDateTime": "/Date(1466774311000+0000)/",
+			"ChangedDateTime": "",
 			"to_PhseRelshp": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_MASTER_RECIPE/MasterRecipePhase(MasterRecipeGroup='41010007',MasterRecipe='1',MasterRecipeOperationIntID='2',MstrRcpSuperiorOpIntVersion='1',MstrRcpOperationIntVersion='2')/to_PhseRelshp"
 		}
 	],
-	"time": "2022-01-19T12:15:11.613583+09:00"
+	"time": "2022-01-28T16:10:25+09:00"
 }
